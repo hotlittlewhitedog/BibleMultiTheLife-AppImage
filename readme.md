@@ -24,22 +24,25 @@ https://apps.apple.com/us/app/bible-multi-the-life/id1502832136
 • Mac:  
 https://apps.apple.com/us/app/bible-multi-the-life/id1587163844
 
-• Linux:  
+• Linux - Flatpak
+https://flathub.org/en-GB/apps/org.biblemulti.thelife
+
+• Linux - Snap:  
 https://snapcraft.io/bible-multi-the-life
 
-• Google:  
+• Linux - AppImage
+Here in Releases
+
+• Linux - AppImage
+https://portable-linux-apps.github.io
+
+• Android - Google:  
 https://play.google.com/store/apps/details?id=org.hlwd.bible_multi_the_life
 
-• F-Droid:  
+• Android - F-Droid:  
 https://f-droid.org/en/packages/org.hlwd.bible_multi_the_life
 
-** All The Glory To God.
-  
-  
-  
-## License
-<img src="https://gnu.org/graphics/gplv3-127x51.png" />
-[GPLv3](http://www.gnu.org/licenses/gpl-3.0.html) 
+** All The Glory To God :heart:
   
   
   

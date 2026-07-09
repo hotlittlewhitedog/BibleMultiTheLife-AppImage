@@ -18,7 +18,7 @@ Time is short. Tribulations are at the door.
 • My Website:  
 https://www.biblemulti.org
 
-• My Source: 
+• My Source:  
 https://gitlab.com/hotlittlewhitedog/BibleTheLife
 
 • iPhone, iPad, Big Sur:  

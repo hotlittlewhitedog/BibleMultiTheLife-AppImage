@@ -27,16 +27,16 @@ https://apps.apple.com/us/app/bible-multi-the-life/id1502832136
 • Mac:  
 https://apps.apple.com/us/app/bible-multi-the-life/id1587163844
 
-• Linux - Flatpak
+• Linux - Flatpak  
 https://flathub.org/en-GB/apps/org.biblemulti.thelife
 
 • Linux - Snap:  
 https://snapcraft.io/bible-multi-the-life
 
-• Linux - AppImage
+• Linux - AppImage:  
 Here in Releases
 
-• Linux - AppImage
+• Linux - AppImage:  
 https://portable-linux-apps.github.io
 
 • Android - Google:  

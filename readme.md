@@ -16,7 +16,7 @@ Please share the info with your friends.
 Time is short. Tribulations are at the door.  
 
 • My Website:  
-https://hotlittlewhitedog.gitlab.io/biblemulti
+https://www.biblemulti.org
 
 • iPhone, iPad, Big Sur:  
 https://apps.apple.com/us/app/bible-multi-the-life/id1502832136
@@ -44,12 +44,12 @@ https://f-droid.org/en/packages/org.hlwd.bible_multi_the_life
   
   
 ## Screenshots
-![Screenshot](/fastlane/metadata/android/en-US/images/phoneScreenshots/glb01.png)
-![Screenshot](/fastlane/metadata/android/en-US/images/phoneScreenshots/glb02.png)
-![Screenshot](/fastlane/metadata/android/en-US/images/phoneScreenshots/glb03.png)
-![Screenshot](/fastlane/metadata/android/en-US/images/phoneScreenshots/glb04.png)
-![Screenshot](/fastlane/metadata/android/en-US/images/sevenInchScreenshots/screen02.png)
-![Screenshot](/fastlane/metadata/android/en-US/images/sevenInchScreenshots/screen01.png)
-![Screenshot](/fastlane/metadata/android/en-US/images/sevenInchScreenshots/screen03.png)
-![Screenshot](/fastlane/metadata/android/en-US/images/sevenInchScreenshots/screen04.png)
-![Screenshot](/fastlane/metadata/android/en-US/images/sevenInchScreenshots/screen05.png)
+![Screenshot](/screenshots/glb01.png)
+![Screenshot](/screenshots/glb02.png)
+![Screenshot](/screenshots/glb03.png)
+![Screenshot](/screenshots/glb04.png)
+![Screenshot](/screenshots/screen02.png)
+![Screenshot](/screenshots/screen01.png)
+![Screenshot](/screenshots/screen03.png)
+![Screenshot](/screenshots/screen04.png)
+![Screenshot](/screenshots/screen05.png)

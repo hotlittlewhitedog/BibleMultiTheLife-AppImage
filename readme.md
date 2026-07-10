@@ -51,15 +51,7 @@ https://f-droid.org/en/packages/org.hlwd.bible_multi_the_life
 -  
   
 ## Screenshots
-![Screenshot](/screenshots/glb01.png|200)
+More in Screenshots folder.
 
-![Screenshot](/screenshots/glb02.png|200)  
-
-![Screenshot](/screenshots/glb03.png|200)  
-
-![Screenshot](/screenshots/glb04.png|200)  
-
-![Screenshot](/screenshots/screen02.png|200)
-
-![Screenshot](/screenshots/screen01.png|200)
+![Screenshot](/screenshots/glb01.png)
 

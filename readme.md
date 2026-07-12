@@ -24,6 +24,12 @@ https://www.biblemulti.org
 • My Source:  
 https://gitlab.com/hotlittlewhitedog/BibleTheLife
 
+• Android - Google:  
+https://play.google.com/store/apps/details?id=org.hlwd.bible_multi_the_life
+
+• Android - F-Droid:  
+https://f-droid.org/en/packages/org.hlwd.bible_multi_the_life
+
 • iPhone, iPad, Big Sur:  
 https://apps.apple.com/us/app/bible-multi-the-life/id1502832136
 
@@ -41,12 +47,6 @@ Here in Releases
 
 • Linux - AppImage:  
 https://portable-linux-apps.github.io
-
-• Android - Google:  
-https://play.google.com/store/apps/details?id=org.hlwd.bible_multi_the_life
-
-• Android - F-Droid:  
-https://f-droid.org/en/packages/org.hlwd.bible_multi_the_life
 
 ** All The Glory To God :heart:
   

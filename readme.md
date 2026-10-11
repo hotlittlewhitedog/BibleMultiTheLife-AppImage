@@ -8,13 +8,13 @@ Bibles included: King James Version, Louis Segond, Ostervald, Diodati, Reina Val
 
 The application uses a modern and clean interface.  
 
-Easy to use with quick searches and shares, favorites, parables, articles, cross-references, but also includes several fonts for people having visibility impairs and a rich clipboard functionality allowing you to copy several verses and chapters of different books before sharing the result.  
+Easy to use with quick searches and shares, favorites, parables, articles, cross-references, plans of reading, but also includes several fonts for people having visibility impairs and a rich clipboard functionality allowing you to copy several verses and chapters of different books before sharing the result.  
 
 You can browse your search history (containing opened books, parables, cross references...) and let you navigate through in an infinite way.  
 
 The Life is a powerful study tool to learn the Word of God.  
 
-For Android, iPhone, iPad, Big Sur, Mac and Linux.  
+For Android, iPhone, iPad, Big Sur, Mac, Linux, Windows.  
 Please share the info with your friends.  
 Time is short. Tribulations are at the door.  
 
@@ -47,6 +47,9 @@ Here in Releases
 
 • Linux - AppImage:  
 https://portable-linux-apps.github.io
+
+• Windows:  
+https://apps.microsoft.com/store/detail/9NP3M22S2T63  
 
 ** All The Glory To God :heart:
   

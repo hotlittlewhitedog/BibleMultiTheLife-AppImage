@@ -1,6 +1,6 @@
 The Life
 ===========
-Aka BibleMultiTheLife 
+Aka BibleMultiTheLife ![Downloads](https://img.shields.io/github/downloads/hotlittlewhitedog/BibleMultiTheLife-AppImage/total)
 
 Bible multi languages, free, offline, no advertising, in English, French, Italian, Spanish, Portuguese.  
 
